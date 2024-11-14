@@ -1,5 +1,6 @@
-## Hi👋 
-I'm a CS student, interested in software development and data science. I enjoy learning new things :)
+## About me 
+I'm a CS student, interested in software development and data science.
+I enjoy music, videogames and learning new things :)
 ## My skills and experience
 
 [![C](https://img.shields.io/badge/Code-C-darkblue?style=flat&logo=C)](https://www.cprogramming.com/)
