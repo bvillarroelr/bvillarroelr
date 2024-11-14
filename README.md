@@ -12,9 +12,9 @@ I'm a CS student, interested in software development and data science. I enjoy l
 
 
 
-[![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/Web-HTML-yellow?style=flat&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/Web-CSS-yellow?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/Code-JavaScript-green?style=flat&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/Web-HTML-green?style=flat&logo=HTML5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/Web-CSS-green?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 
