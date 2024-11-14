@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=Python)](https://www.python.org/)
 [![GNUBash](https://img.shields.io/badge/Code-Bash-darkgreen?style=flat&logo=GNU%20Bash)](https://www.gnu.org/software/bash/)
 [![Linux](https://img.shields.io/badge/Env-Linux-darkgreen?style=flat&logo=Linux)](https://www.gnu.org/)
-[![git](https://img.shields.io/badge/Tools-Git-black?style=flat&logo=Git)](https://git-scm.com/doc)
+[![git](https://img.shields.io/badge/Tools-Git-darkgreen?style=flat&logo=Git)](https://git-scm.com/doc)
 
 
 
